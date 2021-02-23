@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1b85bfa-e89c-448e-bcaf-cb9df022cbd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateCommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ApiUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bean/BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bean/BeanUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +108,8 @@
       <workItem from="1604033029711" duration="1040000" />
       <workItem from="1604317475763" duration="1851000" />
       <workItem from="1605433657189" duration="30000" />
-      <workItem from="1614061039084" duration="305000" />
+      <workItem from="1614061039084" duration="1202000" />
+      <workItem from="1614085820446" duration="1233000" />
     </task>
     <servers />
   </component>
